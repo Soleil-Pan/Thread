@@ -1,6 +1,5 @@
 package com.pyp.demo02;
 
-import com.pyp.demo01.TestThread2;
 import org.apache.commons.io.FileUtils;
 
 import java.io.File;
